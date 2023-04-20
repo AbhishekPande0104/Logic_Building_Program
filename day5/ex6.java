@@ -7,14 +7,13 @@
  * 			 6
  */
 
-
 package day5;
 
 public class ex6
 {
 	public static void main(String[] args)
 	{
-		int n=4895;
+		int n=6531;
 		while(n!=0)
 		{
 			System.out.println(n%10);
